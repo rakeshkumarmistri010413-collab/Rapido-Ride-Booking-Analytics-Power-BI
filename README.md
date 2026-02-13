@@ -126,7 +126,9 @@ Avg Driver Rating = AVERAGE('Bookings'[Driver_Ratings])
 
 ## 👨‍💻 Author
 
-**Your Name** – Aspiring Data Analyst
+**Rakesh Kumar Mistri** 
+
+**Aspiring Data Analyst**
 
 * LinkedIn: https://www.linkedin.com/in/rakesh-kumar-mistri-07ab15334/
 * Email: rakeshkumarmistri010413@gmail.com
