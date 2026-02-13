@@ -7,10 +7,6 @@
 ![Tools](https://img.shields.io/badge/Tools-DAX-red)
 
 ---
-## 📊 Dashboard Snapshot
-
-![Rapido Dashboard](https://raw.githubusercontent.com/rakeshkumarmistri010413-collab/Rapido-Ride-Booking-Analytics-PowerBI/main/Screenshot%20(242).png)
-
 
 ## 📌 Project Overview
 
